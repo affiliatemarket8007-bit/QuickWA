@@ -1,0 +1,13 @@
+C:\QuickWA\QuickWA\QuickWA\bin\Debug\QuickWA.exe.config
+C:\QuickWA\QuickWA\QuickWA\bin\Debug\QuickWA.exe
+C:\QuickWA\QuickWA\QuickWA\bin\Debug\QuickWA.pdb
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.csproj.AssemblyReference.cache
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.Form1.resources
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.Properties.Resources.resources
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.csproj.GenerateResource.cache
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.csproj.CoreCompileInputs.cache
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.exe
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.pdb
+C:\QuickWA\QuickWA\QuickWA\bin\Debug\QRCoder.dll
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.exe.config
+C:\QuickWA\QuickWA\QuickWA\obj\Debug\QuickWA.csproj.Up2Date
